@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ufocuaba.github.io/JyB/sitemap_index.txt
+Sitemap: https://ufocuaba.github.io/KMv/sitemap_index.txt
+Sitemap: https://ufocuaba.github.io/LjZ/sitemap_index.txt
+Sitemap: https://ufocuaba.github.io/XNt/sitemap_index.txt
